@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/mbholt/Team-Profile-Builder/issues"
   },
-  "homepage": "https://github.com/mbholt/Team-Profile-Builder#readme"
+  "homepage": "https://github.com/mbholt/Team-Profile-Builder#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
 }
